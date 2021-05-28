@@ -4,8 +4,8 @@
 <h2>Hi Hi, :3</h2>
   <br>
   <br>
-<div class="flex">
-  <img class="anime-img" src="./images/computer_girl.gif">
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img style="max-height: 200px; width: 25%;" src="./images/computer_girl.gif">
 </div>
 <br>
 <br>
