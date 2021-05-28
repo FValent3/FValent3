@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.anime-img{
+    max-height: 200px;
+    width: 25%;
+}

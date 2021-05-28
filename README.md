@@ -1,4 +1,37 @@
-### Hi there 👋
+<head>
+  <link rel="stylesheet" type="text/css" href="./css/global.css">
+</head>
+<h2>Hi Hi, :3</h2>
+  <br>
+  <br>
+<div class="flex">
+  <img class="anime-img" src="./images/computer_girl.gif">
+</div>
+<br>
+<br>
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fábio-rodrigues-915b481b9/)
+
+<p align="center">
+  <br>
+  I'm Fábio Valente, Computer scientist & Developer from 🇧🇷
+  <br>
+  <br>
+  🔬 I'm researcher that codes for living.
+  <br>
+  💻 I currently work as a Full Stack Developer
+  <br>
+  ❤️ I'm a Anime & Linux lover. ( I use Arch btw :3)
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+
+
+</p>
 
 <!--
 **FValent3/FValent3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
