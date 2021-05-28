@@ -4,8 +4,8 @@
 <h2>Hi Hi, :3</h2>
   <br>
   <br>
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img style="max-height: 200px; width: 25%;" src="./images/computer_girl.gif">
+<div>
+  <img src="./images/computer_girl.gif" align="center">
 </div>
 <br>
 <br>
@@ -32,21 +32,6 @@
 
 
 </p>
-
-<!--
-**FValent3/FValent3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h2 align="center">My Stats </h2>
 <br>
