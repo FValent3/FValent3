@@ -1,7 +1,7 @@
 <h2> Hey, hey &nbsp; <img src="./images/hi.gif" width="30px"> </h2>
 
 
-<h3> I'm Fábio Valente | Fvalen3</h3>
+<h3> I'm Fábio Valente | FValent3</h3>
 
 <br>
 <div>
